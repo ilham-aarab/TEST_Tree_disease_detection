@@ -1,0 +1,10 @@
+onnx==1.10.0
+fastapi
+uvicorn
+numpy
+Pillow
+onnxruntime
+opencv-python-headless
+requests
+imageio
+flask
