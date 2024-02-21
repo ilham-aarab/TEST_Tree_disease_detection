@@ -22,4 +22,4 @@ This project aims to detect diseases in trees using machine learning models. It 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/tree-disease-detection.git
+   git clone https://github.com/ilham-aarab/TEST_Tree_disease_detection/tree/main
